@@ -1,5 +1,5 @@
 import RecentProjects from './RecentProjects';
-import Navigation from './navigation';
+import Navigation from './Navigation';
 import Header from './Header';
 import AboutMe from './AboutMe';
 import Contact from './Contact';
