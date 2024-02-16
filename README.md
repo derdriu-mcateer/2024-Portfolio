@@ -1,8 +1,9 @@
-# React + Vite
+# Derdriu McAteer 2024 Portfolio 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction 
+Hi. Welcome to my Portfolio Repository. This portfolio was a learning opportunity to develop my skills with React and Bootstrap. 
 
-Currently, two official plugins are available:
+I have recently learned React as part of the Coder Academy Bootcamp and decided to put my skills to the test and create a new portfolio. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployment 
+[Deployed Site](https://derdriu-mcateer.netlify.app/)

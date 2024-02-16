@@ -52,12 +52,31 @@ const RecentProjects = () => {
                   <h5 className="tech-stack">React - JavaScript - MySQL</h5>
                   <p className="project-text text-justify">Contributed to a collaborative effort in developing a full-stack web application. Primarily focused on the front-end, I played a key role in crafting an engaging and user-friendly interface. This experience highlighted my dedication to creating seamless and visually appealing user experiences within a dynamic team environment.</p>
                   <div className="text-center">
-                    <img className="img-fluid" id="project-image" src="/sonic_mirage.png" alt="Flask Project" />
+                    <img className="img-fluid" id="project-image" src="/sonic_mirage.png" alt="QR code Project" />
                   </div>
                 </div>
+
+                
               </div>
             </div>
-          
+            <div className="col-lg-6">
+              <div className="project-card mb-4">
+                <div className="d-flex flex-row justify-content-between project-header">
+                  <p className="me-auto">Jouranl Application</p> 
+                  <p className="socials"><a href="https://github.com/tomtomau/hothack-team-3" target="_blank"><i className="bi bi-github fs-1"></i></a></p>
+                </div>
+
+                <div className="card-body">
+                  <h5 className="tech-stack">MongoDB - Express - Node.js - React</h5>
+                  <p className="project-text text-justify">As a project for Coder Academy I learned to create and deploy a full stack MERN Application. Through this experience, I gained valuable insights into the entire software development lifecycle, from conceptualization to deployment. Working on a MERN stack project enabled me to hone my skills in database management, server-side development, front-end design, and deployment strategies. </p>
+                  <div className="text-center">
+                    <img className="img-fluid" id="project-image" src="/journal_app.png" alt="Journal Application"/>
+                  </div>
+                </div>
+
+                
+              </div>
+            </div>
           
           </div>
         </div>
