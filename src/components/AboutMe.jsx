@@ -10,7 +10,7 @@ const AboutMe = () => {
         <div className=" mb-4 bg-body-tertiary rounded-3">
           <div className="container-fluid py-5 fulljustify">
             <p className="col-md-12 fs-4 about-text ">
-            I am a junior web developer who is eager to contribute my
+              I am a junior web developer who is eager to contribute my
               skills, creativity, and passion for coding to a dynamic team,
               while continuously expanding my knowledge and expertise in web
               development. I bring a blend of creativity and technical
@@ -21,7 +21,7 @@ const AboutMe = () => {
 
             </p>
             <div className="resume-button">
-              <a href="/Derdriu McAteer Resume 2024.pdf" download="DM_Resume.pdf" id="resume-button">
+              <a href="/Derdriu McAteer 2025 Resume.pdf" download="DM_Resume.pdf" id="resume-button">
                 <button type="button" className="aboutme-button px-4 me-md-2">Resume</button>
               </a>
             </div>
@@ -49,6 +49,12 @@ const AboutMe = () => {
           <div className="col-md-6">
             <div className="h-100 p-5 bg-body-tertiary history border rounded-3">
               <h2 className="section-title">Experience</h2>
+              <h4>Magentus Practice Management</h4>
+              <p className="job-title">Junior Software Engineer, Brisbane</p>
+              <p className="date text-end">March 2024 - Current</p>
+              <p className="info">
+                Developed and maintained web applications with React and Ruby on Rails, focusing on responsive interfaces and scalable backend solutions integrated with AWS. Collaborated in an Agile environment, contributing to sprint planning, code reviews, and writing clean, maintainable code to ensure high-quality software delivery
+              </p>
               <h4>Chemist Warehouse</h4>
               <p className="job-title">Inventory Manager, Ireland</p>
               <p className="date text-end">June 2020 - June 2023</p>

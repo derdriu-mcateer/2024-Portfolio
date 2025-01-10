@@ -62,7 +62,7 @@ const RecentProjects = () => {
             <div className="col-lg-6">
               <div className="project-card mb-4">
                 <div className="d-flex flex-row justify-content-between project-header">
-                  <p className="me-auto">Jouranl Application</p> 
+                  <p className="me-auto">Journal Application</p> 
                   <p className="socials"><a href="https://github.com/tomtomau/hothack-team-3" target="_blank"><i className="bi bi-github fs-1"></i></a></p>
                 </div>
 
